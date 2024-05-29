@@ -2,7 +2,7 @@
 Minimizes rampbugs. This plugin isn't perfect and rampbugs will continue to occur until Valve decides to finally fix them.
 
 Fix taken from [CS2KZ's rampbug fix](https://gist.github.com/zer0k-z/2eb0c230c8f2c62b5c46d36353cf8d8d)
-
+ 
 ## Installation
 
 - Install [Metamod](https://cs2.poggu.me/metamod/installation/)
